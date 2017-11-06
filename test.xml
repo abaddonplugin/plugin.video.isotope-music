@@ -10,3 +10,16 @@
     <artist>Ed Sheeran</artist>
   </meta>
 </item>
+
+<item>
+  <title>Anywhere</title>
+  <content>song</content>
+  <link>
+    <sublink>search</sublink>
+    <sublink>searchsd</sublink>
+  </link>
+  <meta>
+    <title>Anywhere</title>
+    <artist>Rita Ora</artist>
+  </meta>
+</item>
