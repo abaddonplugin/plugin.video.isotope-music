@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <dir>
-        <name>Led Zeppelin 1</name>
+        <name>Led Zeppelin I</name>
         <link>https://raw.githubusercontent.com/abaddonplugin/plugin.video.isotope-music/master/xmls/Led%20Zeppelin/ledmus1.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail></thumbnail>
@@ -9,7 +9,7 @@
 </dir>
 
 <dir>
-        <name>Led Zeppelin 2</name>
+        <name>Led Zeppelin II</name>
         <link>https://raw.githubusercontent.com/abaddonplugin/plugin.video.isotope-music/master/ledmus2.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail></thumbnail>
