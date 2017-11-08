@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<dir>
+        <name>Led Zeppelin 1</name>
+        <link>https://raw.githubusercontent.com/abaddonplugin/plugin.video.isotope-music/master/ledmus1.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail></thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</dir>
+
+<dir>
+        <name>Led Zeppelin 2</name>
+        <link>https://raw.githubusercontent.com/abaddonplugin/plugin.video.isotope-music/master/ledmus2.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail></thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</dir>
+
+<dir>
+        <name>Led Zeppelin III</name>
+        <link>https://raw.githubusercontent.com/abaddonplugin/plugin.video.isotope-music/master/ledmus3.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail></thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</dir>
+
+<dir>
+        <name>Led Zeppelin IV</name>
+        <link>https://raw.githubusercontent.com/abaddonplugin/plugin.video.isotope-music/master/ledmus4.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail></thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</dir>
