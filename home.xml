@@ -1,7 +1,16 @@
 <?xml version="1.0"?>
 <dir>
-        <name>Test</name>
-        <link>https://raw.githubusercontent.com/abaddonplugin/plugin.video.isotope-music/master/test.xml</link>
+        <name>Led Zeppelin</name>
+        <link>https://raw.githubusercontent.com/abaddonplugin/plugin.video.isotope-music/master/led.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail></thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</dir>
+
+<dir>
+        <name>Black Sabbath</name>
+        <link>https://raw.githubusercontent.com/abaddonplugin/plugin.video.isotope-music/master/bs.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail></thumbnail>
         <animated_fanart></animated_fanart>
