@@ -3,6 +3,8 @@
         <name>Led Zeppelin</name>
         <link>https://raw.githubusercontent.com/abaddonplugin/plugin.video.isotope-music/master/xmls/Led%20Zeppelin/led.xml</link>
         <animated_thumbnail></animated_thumbnail>
+        <thumbnail></thumbnail> 
+        <animated_thumbnail></animated_thumbnail>
         <thumbnail></thumbnail>
         <animated_fanart></animated_fanart>
         <fanart></fanart>
@@ -10,9 +12,25 @@
 
 <dir>
         <name>Black Sabbath</name>
-        <link>https://raw.githubusercontent.com/abaddonplugin/plugin.video.isotope-music/master/bs.xml</link>
+        <link>https://raw.githubusercontent.com/abaddonplugin/plugin.video.isotope-music/master/xmls/Black%20Sabbath/bs.xml</link>
         <animated_thumbnail></animated_thumbnail>
         <thumbnail></thumbnail>
         <animated_fanart></animated_fanart>
         <fanart></fanart>
 </dir>
+
+<dir>
+        <name>Pink Floyd</name>
+        <link>https://raw.githubusercontent.com/abaddonplugin/plugin.video.isotope-music/master/xmls/Pink%20Floyd/floyd.xml</link> </link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail></thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</dir>
+
+        <name>David Bowie</name>
+        <link>https://raw.githubusercontent.com/abaddonplugin/plugin.video.isotope-music/master/xmls/David%20Bowie/bowie.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail></thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
