@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<dir>
+        <name>Black Sabbath</name>
+        <link>https://raw.githubusercontent.com/abaddonplugin/plugin.video.isotope-music/master/xmls/Black%20Sabbath/bsmus1.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail></thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</dir>
+
+<dir>
+        <name>Paranoid</name>
+        <link>https://raw.githubusercontent.com/abaddonplugin/plugin.video.isotope-music/master/xmls/Black%20Sabbath/bsmus2.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail></thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</dir>
+
+<dir>
+        <name>Masters of Reality</name>
+        <link>https://raw.githubusercontent.com/abaddonplugin/plugin.video.isotope-music/master/xmls/Black%20Sabbath/bsmus3.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail></thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</dir>
+
+<dir>
+        <name>Volume 4</name>
+        <link>https://raw.githubusercontent.com/abaddonplugin/plugin.video.isotope-music/master/xmls/Black%20Sabbath/bsmus4.xml/link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail></thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</dir>
