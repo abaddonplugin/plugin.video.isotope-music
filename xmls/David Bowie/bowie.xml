@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<dir>
+        <name>The Man Who Sold The World</name>
+        <link>https://raw.githubusercontent.com/abaddonplugin/plugin.video.isotope-music/master/xmls/David%20Bowie/dbmus1.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail></thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</dir>
+
+<dir>
+        <name>Hunky Dory</name>
+        <link>https://raw.githubusercontent.com/abaddonplugin/plugin.video.isotope-music/master/xmls/David%20Bowie/dbmus2.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail></thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</dir>
+
+<dir>
+        <name>The Rise And Fall Of Ziggy Stardust And The Spiders From Mars</name>
+        <link>https://raw.githubusercontent.com/abaddonplugin/plugin.video.isotope-music/master/xmls/David%20Bowie/dbmus3.xml</link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail></thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+</dir>
+
+<dir>
+        <name>Aladdin Sane</name>
+        <link>https://raw.githubusercontent.com/abaddonplugin/plugin.video.isotope-music/master/xmls/David%20Bowie/dbmus4.xml/link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail></thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart>
+
+</dir>
+
+        <name>Diamond Dogs</name>
+        <link>https://raw.githubusercontent.com/abaddonplugin/plugin.video.isotope-music/master/xmls/David%20Bowie/dbmus5.xml/link>
+        <animated_thumbnail></animated_thumbnail>
+        <thumbnail></thumbnail>
+        <animated_fanart></animated_fanart>
+        <fanart></fanart> 
+
+</dir>        
