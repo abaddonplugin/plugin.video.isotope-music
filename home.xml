@@ -34,3 +34,10 @@
         <thumbnail></thumbnail>
         <animated_fanart></animated_fanart>
         <fanart></fanart>
+</dir>
+
+<plugin>
+<name>Testings</name>
+<link>plugin://plugin.video.youraddon/?action=developer</link>
+<thumbnail></thumbnail>
+</plugin>
